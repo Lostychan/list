@@ -3,8 +3,16 @@
     "Username": "BunnyV2",
     "UsrId": "usr_66d06a87-9cc7-47f3-b013-5374c3e44a38",
     "Rank": "Dev",
-    "CustomTag": "<size=35><color=#e6e6fa>♡Very Lewd</color> & <color=#ffc0cb>Subby♡</color>
-    <size=25><color=#be81fa>Nanachis are cute!</color>",
+    "CustomTag": "<size=35><color=#e6e6fa>♡Very Lewd</color> & <color=#ffc0cb>Subby♡</color>",
+    "R": 0.5312,
+    "G": 0.226,
+    "B": 1,
+  },
+  {
+    "Username": "Panda_Thiccems_BunnyV3",
+    "UsrId": "usr_b3321f1c-96c2-4d80-b309-6e590e299def",
+    "Rank": "User",
+    "CustomTag": "♡Miner's Bun Bun♡",
     "R": 0.5312,
     "G": 0.226,
     "B": 1,
