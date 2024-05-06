@@ -2,7 +2,7 @@
   {
     "Username": "Mith2",
     "UsrId": "usr_bd8fd628-6073-4084-9728-094c6fa38086",
-    "Rank": "Random",
+    "Rank": "Nothing",
     "CustomTag": "Always Dead",
     "R": 1,
     "G": 1,
@@ -11,7 +11,7 @@
   {
     "Username": "Lost",
     "UsrId": "usr_1b11f617-4b41-43ff-b8d7-a31793681e43",
-    "Rank": "Gay",
+    "Rank": "Dev",
     "CustomTag": "Fag",
     "R": 1,
     "G": 1,
@@ -20,8 +20,26 @@
   {
     "Username": "Panda",
     "UsrId": "usr_70a3e750-0eb1-4f6f-856c-e1787b5f9393",
-    "Rank": "Panda",
+    "Rank": "Nothing",
     "CustomTag": "Lostys Slut",
+    "R": 1,
+    "G": 1,
+    "B": 1
+  },
+   {
+    "Username": "Zay",
+    "UsrId": "usr_a77f636b-2e46-45c2-8a89-863523c4e57e",
+    "Rank": "Nothing",
+    "CustomTag": "<color=#eb3458>MROW~</color>",
+    "R": 1,
+    "G": 1,
+    "B": 1
+  },
+  {
+    "Username": "Silvir",
+    "UsrId": "usr_0d8b0bc1-81dc-48d4-94c3-c85cab861b3e",
+    "Rank": "Nothing",
+    "CustomTag": "<color=#627ba4>Professional Hater</color>",
     "R": 1,
     "G": 1,
     "B": 1
