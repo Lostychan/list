@@ -7,6 +7,77 @@
     "R": 1,
     "G": 1,
     "B": 1
-  }
-  
+  },
+  {
+     "Username": "Mith2",
+     "UsrId": "usr_bd8fd628-6073-4084-9728-094c6fa38086",
+     "Rank": "Nothing",
+     "CustomTag": "Always Dead",
+     "R": 1,
+     "G": 1,
+     "B": 1
+   },
+   {
+     "Username": "Lost",
+     "UsrId": "usr_1b11f617-4b41-43ff-b8d7-a31793681e43",
+     "Rank": "Dev",
+     "CustomTag": "Fag",
+     "R": 1,
+     "G": 1,
+     "B": 1
+   },
+    {
+     "Username": "Zay",
+     "UsrId": "usr_a77f636b-2e46-45c2-8a89-863523c4e57e",
+     "Rank": "Nothing",
+     "CustomTag": "<color=#eb3458>MROW~</color>",
+     "R": 1,
+     "G": 1,
+     "B": 1
+   },
+    {
+     "Username": "Fuzzball",
+     "UsrId": "usr_b37ae173-1410-4719-9564-832b285c4cb7",
+     "Rank": "Nothing",
+     "CustomTag": "<color=#696ec0>Faggot</color>",
+     "R": 1,
+     "G": 1,
+     "B": 1
+   },
+   {
+     "Username": "Xashen",
+     "UsrId": "usr_6b48aa94-0486-4824-8961-2689d6f7a828",
+     "Rank": "Nothing",
+     "CustomTag": "<color=#A020F0>Meow</color>",
+     "R": 1,
+     "G": 1,
+     "B": 1
+   },
+    {
+     "Username": "Isumuishi",
+     "UsrId": "usr_4a667bb5-c55b-44d3-9c92-bb47aecce963",
+     "Rank": "Public User",
+     "CustomTag": "<color=#ffc0cb>Silly</color> and <color=red>Malicious</color>",
+     "R": 1,
+     "G": 1,
+     "B": 1
+   },
+   {
+     "Username": "qzqz",
+     "UsrId": "usr_47beb642-3132-48fe-984b-b6fd44e068bd",
+     "Rank": "Client User",
+     "CustomTag": "<color=red>Client User</color>",
+     "R": 1,
+     "G": 1,
+     "B": 1
+   },
+   {
+     "Username": "Silvir",
+     "UsrId": "usr_0d8b0bc1-81dc-48d4-94c3-c85cab861b3e",
+     "Rank": "Nothing",
+     "CustomTag": "<color=#627ba4>Professional Hater</color>",
+     "R": 1,
+     "G": 1,
+     "B": 1
+   }
 ]
